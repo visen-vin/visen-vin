@@ -8,6 +8,7 @@ My work emphasizes **simplicity**, **performance**, and **UX clarity**, ensuring
 
 ### Currently Building
 
+- **AQI Tracker**: A real-time air quality dashboard featuring detailed pollutant breakdowns and city-wise rankings. Built with **React 19**, **Redux Toolkit**, and **Open-Meteo**, focusing on data accuracy and performant caching strategies.
 - **Terminal Portfolio**: An interactive, CLI-style personal website built to explore React 19 capabilities and keyboard-first UX.
 - **UPI Payment Helper**: A mobile utility solving the friction between gallery-saved QR codes and payment apps.
 
