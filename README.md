@@ -1,97 +1,57 @@
-<div align="center" >
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&lines=Hi%2C+I'm++Vinayak++Singh+%F0%9F%91%8B;Senior+Frontend+Engineer;React+%E2%80%A2+UX+%E2%80%A2+Performance" alt="Typing SVG" /></a>
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=visen-vin.visen-vin">
-</div>
+<div align="center">
+  <!-- You can replace this with the generated banner if you like, or keep the clean text -->
+  <h1>Vinayak Singh</h1>
+  <h3>Senior Frontend Engineer</h3>
+  <p><i>Building resilient, product-centric web ecosystems.</i></p>
 
-<!-- <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/vinayak-urs/" title="LinkedIn"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
-  <code><a href="https://portfolio-lime-rho-xjq08nv0tl.vercel.app/" title="Portfolio"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Portfolio</a></code>
-  <code><a href="https://qr2upi.devv.in/" title="QR2UPI"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> QR2UPI</a></code>
-</h5> -->
+   <div> <a href="https://portfolio-lime-rho-xjq08nv0tl.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Interactive_Terminal-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    </a></div>
+   <div> <a href="https://www.linkedin.com/in/vinayak-urs/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a></div>
+</div>
 
 <br />
 
-<p align="center">
-  Senior Frontend Developer specializing in <b>React</b>, focused on building <b>scalable, data-heavy UI systems</b> with strong UX and predictable state management.
-  <br><br>
-  I work on complex frontend problems—dashboards, workflow-driven tools, and real-world utilities—turning ambiguous requirements into <b>clean, reliable production systems</b>.
-  <br><br>
-  I treat performance, data flow, and UX as product-level responsibilities.
-</p>
+> I specialize in **React**, **TypeScript**, and modern UI architecture. My work bridges the gap between complex data and intuitive user experiences, treating performance and UX as core product features.
 
-<hr />
+<br />
 
 ## 🚧 Currently Building
 
-- **AQI Tracker (Ongoing)**  
-  Real-time air quality dashboard with detailed pollutant breakdowns and upcoming **city-wise / global AQI rankings**.  
-  Built with React 19, Redux Toolkit (RTK Query), Tailwind CSS, and Open-Meteo.  
-  Focus: **data accuracy, polling & caching strategies, performance, and clarity for critical information**.
+| Project | Status | Tech Stack |
+| :--- | :--- | :--- |
+| **AQI Tracker** | 🟢 **Active Dev** | `React 19` `Redux Toolkit` `Open-Meteo` `Tailwind` |
+| > A real-time air quality dashboard featuring detailed pollutant breakdowns and city-wise rankings. Focus on **data accuracy**, **polling strategies**, and **performance**. |
 
----
+<br />
 
-## ✅ Shipped Projects
+## 🛠 Tech Stack
 
-- **Terminal-Driven Resume + Portfolio**  
-  CLI-style interactive portfolio designed to explore projects, experience, and engineering decisions progressively.  
-  🔗 https://portfolio-lime-rho-xjq08nv0tl.vercel.app/
+| Core | Ecosystem | Tools & Architecture |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) **CI/CD** **Monorepos** |
 
-- **QR → UPI Payment Helper (QR2UPI)**  
-  Extracts UPI IDs from QR images, bypasses gallery-scan limits, and opens native UPI payment flows.  
-  Solves a real-world payment UX constraint.  
-  🔗 https://qr2upi.devv.in/
+<br />
 
----
+## ✅ Selected Projects
 
-## 🧠 Frontend Focus
+| **Terminal Portfolio** | **QR → UPI Payment Helper** |
+| :--- | :--- |
+| **[Launch CLI 🚀](https://portfolio-lime-rho-xjq08nv0tl.vercel.app/)** <br><br> A command-line interface for the web. Abandons traditional navigation for a terminal experience, featuring command parsing, filesystem navigation, and keyboard-first UX. | **[Open App 📱](https://qr2upi.devv.in/)** <br><br> Solves a real-world payment UX constraint. Extracts UPI IDs from gallery-stored QR images to bypass scan limits and trigger native payment flows instantly. |
 
-- React (modern patterns, React 18/19 mental models)
-- TypeScript for predictable systems
-- State-heavy, async, data-driven UIs
-- UX for real user workflows
-- Frontend performance as a product feature
+<br />
 
----
-
-## 🛠 Languages & Tools
+## � Activity & Stats
 
 <p align="center">
-  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
-  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></code>
-  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  <img src="https://github-readme-stats.vercel.app/api?username=visen-vin&show_icons=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true&bg_color=0,000000,130F40&title_color=fff&text_color=fff&icon_color=79ff97" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visen-vin&layout=compact&hide_title=true&bg_color=0,000000,130F40&text_color=fff" height="180" alt="Top Languages" />
 </p>
 
----
+<br />
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=visen-vin&show_icons=true&hide_title=true&hide_rank=true" />
-  <br /><br />
-  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visen-vin&layout=compact" />
-</p>
-
----
-
-## 🧩 Engineering Principles
-
-- Simple, predictable systems over clever abstractions  
-- UX clarity over visual polish  
-- Performance issues are product issues  
-- Frontend engineering is about **trust and reliability**
-
----
-
-## 🔗 Links
-
-- 🌐 Portfolio: https://portfolio-lime-rho-xjq08nv0tl.vercel.app/  
-- 💼 LinkedIn: https://www.linkedin.com/in/vinayak-urs/  
-
----
-
-Interested in **senior frontend roles** where I can own meaningful UI systems, collaborate closely with product teams, and improve long-term technical quality.
+<div align="center">
+  <i>"Simplicity wins. Complexity is a cost that must be justified."</i>
+</div>
