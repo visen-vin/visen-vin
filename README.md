@@ -1,6 +1,7 @@
 <div align="center">
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&lines=Hi%2C+I'm++Vinayak++Singh+%F0%9F%91%8B;Senior+Frontend+Engineer;React+%E2%80%A2+UX+%E2%80%A2+Performance" alt="Typing SVG" /></a>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=visen-vin.visen-vin">
   <!-- You can replace this with the generated banner if you like, or keep the clean text -->
-  <h1>Vinayak Singh</h1>
   <h3>Senior Frontend Engineer</h3>
   <p><i>Building resilient, product-centric web ecosystems.</i></p>
 
