@@ -1,69 +1,97 @@
-# Hi, I’m Vinayak Singh 👋
+<div align="center" >
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&lines=Hi%2C+I'm++Vinayak++Singh+%F0%9F%91%8B;Senior+Frontend+Engineer;React+%E2%80%A2+UX+%E2%80%A2+Performance" alt="Typing SVG" /></a>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=visen-vin.visen-vin">
+</div>
 
-I’m a **Senior Frontend Developer specializing in React**, with a strong product and UX focus. I build **scalable, performance-conscious frontend applications** where state management, data flow, and user experience are treated as first-class concerns.
+<!-- <h5 align="center">
+  <code><a href="https://www.linkedin.com/in/vinayak-urs/" title="LinkedIn"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="https://portfolio-lime-rho-xjq08nv0tl.vercel.app/" title="Portfolio"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Portfolio</a></code>
+  <code><a href="https://qr2upi.devv.in/" title="QR2UPI"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> QR2UPI</a></code>
+</h5> -->
 
-I enjoy working on complex frontend problems — especially **data-heavy interfaces, planning tools, dashboards, and workflow-driven UIs** — and turning unclear requirements into systems that are intuitive, maintainable, and reliable in production.
+<br />
 
----
+<p align="center">
+  Senior Frontend Developer specializing in <b>React</b>, focused on building <b>scalable, data-heavy UI systems</b> with strong UX and predictable state management.
+  <br><br>
+  I work on complex frontend problems—dashboards, workflow-driven tools, and real-world utilities—turning ambiguous requirements into <b>clean, reliable production systems</b>.
+  <br><br>
+  I treat performance, data flow, and UX as product-level responsibilities.
+</p>
+
+<hr />
 
 ## 🚧 Currently Building
 
+- **AQI Tracker (Ongoing)**  
+  Real-time air quality dashboard with detailed pollutant breakdowns and upcoming **city-wise / global AQI rankings**.  
+  Built with React 19, Redux Toolkit (RTK Query), Tailwind CSS, and Open-Meteo.  
+  Focus: **data accuracy, polling & caching strategies, performance, and clarity for critical information**.
+
+---
+
+## ✅ Shipped Projects
+
 - **Terminal-Driven Resume + Portfolio**  
-  A React-based portfolio using a CLI-style interface to explore projects, experience, and system design decisions progressively.
-
-- **QR → UPI Payment Helper**  
-  A UX-focused utility that extracts UPI payment details from QR images and opens native UPI payment flows, solving real-world gallery scan limitations.
-
-_(This section is actively updated as I build new things.)_
-
----
-
-## 🧠 Frontend Focus (Right Now)
-
-- React (modern patterns & performance)
-- TypeScript for predictable systems
-- State-heavy, data-driven UIs
-- UX for real user workflows
-- Frontend performance optimization
-
----
-
-## 🛠 Selected Projects
-
-- **QR → UPI Payment Helper**  
-  Solves a real UX limitation in gallery-based QR scans by extracting UPI payment info and initiating native payment flows.  
-  🔗 https://qr2upi.devv.in/
-
-- **Terminal Portfolio**  
-  An interactive resume + portfolio that treats frontend as a system, not a static site.  
+  CLI-style interactive portfolio designed to explore projects, experience, and engineering decisions progressively.  
   🔗 https://portfolio-lime-rho-xjq08nv0tl.vercel.app/
 
-More projects and experiments live in my repositories.
+- **QR → UPI Payment Helper (QR2UPI)**  
+  Extracts UPI IDs from QR images, bypasses gallery-scan limits, and opens native UPI payment flows.  
+  Solves a real-world payment UX constraint.  
+  🔗 https://qr2upi.devv.in/
 
 ---
 
-## 📈 GitHub Activity
+## 🧠 Frontend Focus
 
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=visen-vin&show_icons=true&hide_title=true&hide_rank=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visen-vin&layout=compact)
+- React (modern patterns, React 18/19 mental models)
+- TypeScript for predictable systems
+- State-heavy, async, data-driven UIs
+- UX for real user workflows
+- Frontend performance as a product feature
 
 ---
 
-## 🧩 How I Think About Frontend Engineering
+## 🛠 Languages & Tools
 
-- Prefer **simple, predictable systems** over clever abstractions  
-- UX clarity matters more than visual polish  
+<p align="center">
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=visen-vin&show_icons=true&hide_title=true&hide_rank=true" />
+  <br /><br />
+  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visen-vin&layout=compact" />
+</p>
+
+---
+
+## 🧩 Engineering Principles
+
+- Simple, predictable systems over clever abstractions  
+- UX clarity over visual polish  
 - Performance issues are product issues  
-- Frontend engineering is about **trust and reliability**, not just UI  
+- Frontend engineering is about **trust and reliability**
 
 ---
 
 ## 🔗 Links
 
-- 🌐 Portfolio: https://portfolio-lime-rho-xjq08nv0tl.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/vinayak-urs/
+- 🌐 Portfolio: https://portfolio-lime-rho-xjq08nv0tl.vercel.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/vinayak-urs/  
 
 ---
 
-I’m interested in senior frontend roles where I can own meaningful UI systems, work closely with product teams, and contribute to long-term technical quality.
+Interested in **senior frontend roles** where I can own meaningful UI systems, collaborate closely with product teams, and improve long-term technical quality.
