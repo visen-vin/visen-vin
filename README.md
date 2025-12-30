@@ -1,60 +1,97 @@
-# Hi, I'm Vinayak Singh.
+<div align="center" >
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&lines=Hi%2C+I'm++Vinayak++Singh+%F0%9F%91%8B;Senior+Frontend+Engineer;React+%E2%80%A2+UX+%E2%80%A2+Performance" alt="Typing SVG" /></a>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=visen-vin.visen-vin">
+</div>
 
-I am a **Senior Frontend Developer** focused on building resilient, product-centric web applications. I specialize in **React**, **TypeScript**, and modern UI architecture, treating the frontend not just as a display layer but as a complete product ecosystem.
+<!-- <h5 align="center">
+  <code><a href="https://www.linkedin.com/in/vinayak-urs/" title="LinkedIn"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="https://portfolio-lime-rho-xjq08nv0tl.vercel.app/" title="Portfolio"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Portfolio</a></code>
+  <code><a href="https://qr2upi.devv.in/" title="QR2UPI"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> QR2UPI</a></code>
+</h5> -->
 
-My work emphasizes **simplicity**, **performance**, and **UX clarity**, ensuring technical solutions tackle real-world problems effectively.
+<br />
 
----
+<p align="center">
+  Senior Frontend Developer specializing in <b>React</b>, focused on building <b>scalable, data-heavy UI systems</b> with strong UX and predictable state management.
+  <br><br>
+  I work on complex frontend problems—dashboards, workflow-driven tools, and real-world utilities—turning ambiguous requirements into <b>clean, reliable production systems</b>.
+  <br><br>
+  I treat performance, data flow, and UX as product-level responsibilities.
+</p>
 
-### Currently Building
+<hr />
 
-- **AQI Tracker**: A real-time air quality dashboard featuring detailed pollutant breakdowns and city-wise rankings. Built with **React 19**, **Redux Toolkit**, and **Open-Meteo**, focusing on data accuracy and performant caching strategies.
-- **Terminal Portfolio**: An interactive, CLI-style personal website built to explore React 19 capabilities and keyboard-first UX.
-- **UPI Payment Helper**: A mobile utility solving the friction between gallery-saved QR codes and payment apps.
+## 🚧 Currently Building
 
-*(This section tracks my active technical experiments and product work.)*
-
----
-
-### Frontend Focus
-
-- **React Ecosystem**: Architecting scalable component systems, custom hooks, and leveraging modern React features (App Router, Server Actions).
-- **TypeScript**: Ensuring robustness and maintainability through strict typing and clear interfaces.
-- **Product & UX**: Ownership of the end-to-end user journey, from performance optimization to interaction design.
-- **Design Systems**: Implementing coherent, themeable UI systems (Tailwind CSS) that scale.
-
----
-
-### Selected Projects
-
-**[Terminal Portfolio](https://portfolio-lime-rho-xjq08nv0tl.vercel.app/)**
-A React-based command-line interface for the web. This project abandons traditional navigation for a terminal experience, featuring command parsing, filesystem navigation, and a focus on power-user interactions.
-
-**QR → UPI Payment Helper**
-A utility application addressing a specific gap in the UPI payment workflow. It streamlines the process of paying via gallery-stored QR codes, prioritizing speed and mobile usability.
+- **AQI Tracker (Ongoing)**  
+  Real-time air quality dashboard with detailed pollutant breakdowns and upcoming **city-wise / global AQI rankings**.  
+  Built with React 19, Redux Toolkit (RTK Query), Tailwind CSS, and Open-Meteo.  
+  Focus: **data accuracy, polling & caching strategies, performance, and clarity for critical information**.
 
 ---
 
-### GitHub Activity
+## ✅ Shipped Projects
 
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayak-urs&show_icons=true&theme=minimal&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-urs&layout=compact&theme=minimal&hide_border=true)
+- **Terminal-Driven Resume + Portfolio**  
+  CLI-style interactive portfolio designed to explore projects, experience, and engineering decisions progressively.  
+  🔗 https://portfolio-lime-rho-xjq08nv0tl.vercel.app/
 
----
-
-### How I Think About Frontend Engineering
-
-- **Simplicity Wins**: The best code is clear, readable, and boring. Complexity is a cost that must be justified.
-- **UX First**: Performance and reliability are core components of the user experience, not afterthoughts.
-- **Ownership**: A senior engineer owns the outcome, not just the task. I care deeply about the "why" behind the code.
+- **QR → UPI Payment Helper (QR2UPI)**  
+  Extracts UPI IDs from QR images, bypasses gallery-scan limits, and opens native UPI payment flows.  
+  Solves a real-world payment UX constraint.  
+  🔗 https://qr2upi.devv.in/
 
 ---
 
-### Connect
+## 🧠 Frontend Focus
 
-- **Portfolio**: [portfolio-lime-rho-xjq08nv0tl.vercel.app](https://portfolio-lime-rho-xjq08nv0tl.vercel.app/)
-- **LinkedIn**: [linkedin.com/in/vinayak-urs](https://www.linkedin.com/in/vinayak-urs/)
+- React (modern patterns, React 18/19 mental models)
+- TypeScript for predictable systems
+- State-heavy, async, data-driven UIs
+- UX for real user workflows
+- Frontend performance as a product feature
 
 ---
 
-_Open to Senior Frontend roles focused on high-quality product engineering and autonomy._
+## 🛠 Languages & Tools
+
+<p align="center">
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></code>
+  <code><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=visen-vin&show_icons=true&hide_title=true&hide_rank=true" />
+  <br /><br />
+  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visen-vin&layout=compact" />
+</p>
+
+---
+
+## 🧩 Engineering Principles
+
+- Simple, predictable systems over clever abstractions  
+- UX clarity over visual polish  
+- Performance issues are product issues  
+- Frontend engineering is about **trust and reliability**
+
+---
+
+## 🔗 Links
+
+- 🌐 Portfolio: https://portfolio-lime-rho-xjq08nv0tl.vercel.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/vinayak-urs/  
+
+---
+
+Interested in **senior frontend roles** where I can own meaningful UI systems, collaborate closely with product teams, and improve long-term technical quality.
