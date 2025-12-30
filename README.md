@@ -4,12 +4,14 @@
   <h3>Senior Frontend Engineer</h3>
   <p><i>Building resilient, product-centric web ecosystems.</i></p>
 
-   <div> <a href="https://portfolio-lime-rho-xjq08nv0tl.vercel.app/">
+  <p>
+    <a href="https://portfolio-lime-rho-xjq08nv0tl.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-Interactive_Terminal-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-    </a></div>
-   <div> <a href="https://www.linkedin.com/in/vinayak-urs/">
+    </a>
+    <a href="https://www.linkedin.com/in/vinayak-urs/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a></div>
+    </a>
+  </p>
 </div>
 
 <br />
